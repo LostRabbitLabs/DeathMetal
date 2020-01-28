@@ -34,16 +34,13 @@ pip install git+https://github.com/Coalfire-Research/DeathMetal.git
 ## Built With
 * Python3 default libs
 * hexdump for debugging
-* requests for http.
+* requests for http
 
-## Contributing
-Submit a pull request, or talk to me or something.
 
 ## Authors
 
 * **Victor Teissler** - *Initial work* - [Victor Teissler](https://github.com/Victor-Teissler)
 
-See also the list of [contributors](https://github.com/Coalfire-Research/DeathMetal/contributors) who participated in this project.
 
 ## License
 
@@ -51,7 +48,6 @@ This project is licensed under a modified MIT License - see the [LICENSE](LICENS
 
 ## Acknowledgments
 
-* Jimmy Twotimes for pointing me at the scanning capabilities - this became rockso, thanks man!
-* Clutchisback for the beef hooks and help with the blog post - greatly appreciated.
-* Soen knows what he did.
-* Coalfire for the opportunity
+* Thank you Pancho!
+
+
